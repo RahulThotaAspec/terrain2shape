@@ -1,6 +1,7 @@
 # terrain_detection
 
 `conda activate fastaiv1`
+
 `python make_terrain_shape.py {mosaic_pth} {output_folder}`
 
 mosaic_pth = Path to the mosaic image
